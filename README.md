@@ -1,0 +1,1 @@
+This is a automatic water irrigation system made using Arduino, Water Motor. An IOT Project. These are the codes for data fetching and displaying real time data to the farmers or the end users using this system written on Python/Flask and Database Firebase.
